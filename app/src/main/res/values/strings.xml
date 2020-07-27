@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">VT-E</string>
+    <string name="logo">VT-Education</string>
+    <string name="message_request_permission_read_phone_state">Chúng tôi cần quyền để xác định thiết bị của bạn</string>
+    <string name="manager_class">Quản Lí Lớp Học</string>
+
+
+    ----------------Location-------------------
+    <string name="Setting_GPS">Cài Đặt GPS</string>
+    <string name="Request_GPS">GPS không được bật. Bạn có muốn đi đến phần cài đặt?</string>
+    <string name="OK">Đồng ý</string>
+    <string name="Cancle">Hủy</string>
+
+    ----------------Main-------------------
+    <string name="capacity_test">Kiểm Tra Năng Lực</string>
+    <string name="find_teacher">Tìm Gia Sư</string>
+    <string name="find_student">Tìm Học Sinh</string>
+    <string name="login">Đăng Nhập</string>
+
+    ----------------Map-------------------
+    <string name="engine_init_error">Map engine initialization</string>
+    <string name="search_title">Search query</string>
+
+    ----------------Find Teacher-------------------
+    <string name="error">Đã Xảy Ra Lỗi!</string>
+
+    ----------------Test-------------------
+    <string name="student_capacity_test">Kiểm Tra Năng Lực Học Sinh</string>
+    <string name="teacher_capacity_test">Kiểm Tra Năng Lực Gia Sư</string>
+
+    ----------------Login-------------------
+    <string name="user_name">Tên đăng nhập/Số điện thoại</string>
+    <string name="password">Mật Khẩu</string>
+    <string name="forgot_Password">Quên Mật Khẩu</string>
+    <string name="Create_Acount">Thêm Tài Khoản</string>
+    <string name="Notice_EnterPassword">Nhập Mật Khẩu!</string>
+    <string name="Notice_EnterUsername">Nhập Tên Đăng Nhập Hoặc Mật Khẩu!</string>
+    <string name="Error_Acount">Sai Tên Đăng Nhập Hoặc Mật khẩu</string>
+    <string name="Remember_Password">Nhớ Mật Khẩu</string>
+
+    ----------------Find Teacher-------------------
+    <string name="Near_Teacher">Gần Đây</string>
+    <string name="List_Teacher">Danh Sách</string>
+    <string name="Acount_Name_Teacher">Tên Giáo Viên</string>
+    <string name="Experient">Kinh Nghiệm</string>
+    <string name="Subjects">Môn Dạy</string>
+    <string name="Job">Nghề Nghiệp</string>
+    <string name="Gender">Giới Tính</string>
+    <string name="Age">Tuổi</string>
+    <string name="Place">Địa chỉ</string>
+    <string name="Vehicle">Phương tiện</string>
+    <string name="Free_Time">Thời gian rảnh</string>
+    <string name="Price">Học Phí 1 Tiếng</string>
+    <string name="Your_Position">Địa chỉ của bạn</string>
+    <string name="Contact">Liên Hệ</string>
+    <string name="Two_Point">:</string>
+    <string name="Describe">Quá Trình Công Tác</string>
+    <string name="Show_Location_Details">Chỉ Đường >>></string>
+    <string name="Fetching_data">Đang Tải Dữ Liệu</string>
+    <string name="Please_wait">Vui Lòng Đợi...</string>
+
+    ----------------Bottom Sheet-------------------
+    <string name="Direction">Chỉ Đường</string>
+    <string name="Detail">Chi Tiết</string>
+</resources>
